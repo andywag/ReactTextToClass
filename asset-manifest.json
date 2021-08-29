@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TextToClass/static/css/main.a617e044.chunk.css",
+    "main.js": "/TextToClass/static/js/main.18b1d464.chunk.js",
+    "main.js.map": "/TextToClass/static/js/main.18b1d464.chunk.js.map",
+    "runtime-main.js": "/TextToClass/static/js/runtime-main.69709658.js",
+    "runtime-main.js.map": "/TextToClass/static/js/runtime-main.69709658.js.map",
+    "static/css/2.dd79f5e5.chunk.css": "/TextToClass/static/css/2.dd79f5e5.chunk.css",
+    "static/js/2.fc13366d.chunk.js": "/TextToClass/static/js/2.fc13366d.chunk.js",
+    "static/js/2.fc13366d.chunk.js.map": "/TextToClass/static/js/2.fc13366d.chunk.js.map",
+    "static/js/3.7514fe7c.chunk.js": "/TextToClass/static/js/3.7514fe7c.chunk.js",
+    "static/js/3.7514fe7c.chunk.js.map": "/TextToClass/static/js/3.7514fe7c.chunk.js.map",
+    "index.html": "/TextToClass/index.html",
+    "static/css/2.dd79f5e5.chunk.css.map": "/TextToClass/static/css/2.dd79f5e5.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/TextToClass/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fc13366d.chunk.js.LICENSE.txt": "/TextToClass/static/js/2.fc13366d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TextToClass/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69709658.js",
+    "static/css/2.dd79f5e5.chunk.css",
+    "static/js/2.fc13366d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.18b1d464.chunk.js"
+  ]
+}
